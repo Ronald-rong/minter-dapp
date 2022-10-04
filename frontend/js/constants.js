@@ -1,9 +1,9 @@
-const contractAddress = "0x9C55805625866c9FF4a3E9F39878F3F1858524E2"; // Replace with your own contract address
-const chain = 'goerli'; // rinkeby, polygon, or ethereum
+const contractAddress = "0xF788a4074d39e29e8b7D93Efbd52742Be956c5c0"; // Replace with your own contract address
+const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the GirlHoo NFT Project!!";
+const welcome_h1 = "Welcome to the Rehabor NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The GirlHoo NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. ';
+const welcome_p = 'The Rehabor NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. ';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
