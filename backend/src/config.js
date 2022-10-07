@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Girl Hoo";
-const description = "This is a collection from Girl Hoo.";
+const description = "This is a collection from Rehabor Girls.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [{
