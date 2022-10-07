@@ -32,7 +32,7 @@ const format = {
 };
 
 const extraMetadata = {
-    external_url: "http://www.yitoy.store", // Replace with your website or remove this line if you do not have one.
+    external_url: "http://www.rehabor.net", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -43,8 +43,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Girl Hoo';
-const CONTRACT_SYMBOL = 'GH';
+const CONTRACT_NAME = 'Rehabor Girls';
+const CONTRACT_SYMBOL = 'RG';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x5f7Bc15EA39F52c859c5Be9A1686e2180D96ba42';
 const TREASURY_ADDRESS = '0x5f7Bc15EA39F52c859c5Be9A1686e2180D96ba42';
