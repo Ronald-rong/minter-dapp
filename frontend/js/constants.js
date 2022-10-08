@@ -1,5 +1,5 @@
-const contractAddress = "0x36E50e2F9dF5226f2b8d5A231a80331Ef3d78e97"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const contractAddress = "0x9F7658b868EE72c16023F7E5851D2949C5618008"; // Replace with your own contract address
+const chain = 'polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Rehabor NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
